@@ -16,7 +16,7 @@ O objetivo do projeto foi:
 
 Abaixo podemos observar a tabela não normalizada, semelhante ao que poderia ser uma versão simplificada do banco de dados do Spotify.
 
-![tabela nao normalizada]('./assets/Non_Normalized_Table.png')
+![tabela nao normalizada](/assets/Non_Normalized_Table.png)
 
 **Aviso:** Todos os dados da tabela são fictícios e foram gerados aleatoriamente através de ferramentas com o intuito de deixar o projeto mais real. Quaisquer similaridades com informações reais são meras coincidências.
 
@@ -24,7 +24,7 @@ Abaixo podemos observar a tabela não normalizada, semelhante ao que poderia ser
 
 Antes de tudo, foi criado um esboço da normalização utilizando a ferramenta `Excalidraw`.
 
-![esboço excalidraw]('./assets/Normalizacao_Esboco_Excalidraw.png')
+![esboço excalidraw](/assets/Normalizacao_Esboco_Excalidraw.png)
 
 O banco de dados seguiu as seguintes regras de negócio:
 
