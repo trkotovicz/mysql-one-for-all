@@ -24,8 +24,6 @@ Abaixo podemos observar a tabela não normalizada, semelhante ao que poderia ser
 
 Antes de tudo, foi criado um esboço da normalização utilizando a ferramenta `Excalidraw`.
 
-![esboço excalidraw](/assets/Normalizacao_Esboco_Excalidraw.png)
-
 O banco de dados seguiu as seguintes regras de negócio:
 
 * Informações sobre quais planos estão disponíveis e seus detalhes;
